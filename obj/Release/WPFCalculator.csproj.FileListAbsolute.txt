@@ -1,0 +1,27 @@
+D:\С#\WPF C#\WPF Project\WPFCalculator\bin\Release\WPFCalculator.exe.config
+D:\С#\WPF C#\WPF Project\WPFCalculator\bin\Release\WPFCalculator.exe
+D:\С#\WPF C#\WPF Project\WPFCalculator\bin\Release\WPFCalculator.pdb
+D:\С#\WPF C#\WPF Project\WPFCalculator\obj\Release\MainWindow.baml
+D:\С#\WPF C#\WPF Project\WPFCalculator\obj\Release\MainWindow.g.cs
+D:\С#\WPF C#\WPF Project\WPFCalculator\obj\Release\App.g.cs
+D:\С#\WPF C#\WPF Project\WPFCalculator\obj\Release\WPFCalculator_MarkupCompile.cache
+D:\С#\WPF C#\WPF Project\WPFCalculator\obj\Release\WPFCalculator.g.resources
+D:\С#\WPF C#\WPF Project\WPFCalculator\obj\Release\WPFCalculator.Properties.Resources.resources
+D:\С#\WPF C#\WPF Project\WPFCalculator\obj\Release\WPFCalculator.csproj.GenerateResource.cache
+D:\С#\WPF C#\WPF Project\WPFCalculator\obj\Release\WPFCalculator.csproj.CoreCompileInputs.cache
+D:\С#\WPF C#\WPF Project\WPFCalculator\obj\Release\WPFCalculator.exe
+D:\С#\WPF C#\WPF Project\WPFCalculator\obj\Release\WPFCalculator.pdb
+C:\Users\Eagle\Desktop\Projects\wpf-calculator\bin\Release\WPFCalculator.exe.config
+C:\Users\Eagle\Desktop\Projects\wpf-calculator\bin\Release\WPFCalculator.exe
+C:\Users\Eagle\Desktop\Projects\wpf-calculator\bin\Release\WPFCalculator.pdb
+C:\Users\Eagle\Desktop\Projects\wpf-calculator\obj\Release\WPFCalculator.csprojAssemblyReference.cache
+C:\Users\Eagle\Desktop\Projects\wpf-calculator\obj\Release\MainWindow.baml
+C:\Users\Eagle\Desktop\Projects\wpf-calculator\obj\Release\MainWindow.g.cs
+C:\Users\Eagle\Desktop\Projects\wpf-calculator\obj\Release\App.g.cs
+C:\Users\Eagle\Desktop\Projects\wpf-calculator\obj\Release\WPFCalculator_MarkupCompile.cache
+C:\Users\Eagle\Desktop\Projects\wpf-calculator\obj\Release\WPFCalculator.g.resources
+C:\Users\Eagle\Desktop\Projects\wpf-calculator\obj\Release\WPFCalculator.Properties.Resources.resources
+C:\Users\Eagle\Desktop\Projects\wpf-calculator\obj\Release\WPFCalculator.csproj.GenerateResource.cache
+C:\Users\Eagle\Desktop\Projects\wpf-calculator\obj\Release\WPFCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Eagle\Desktop\Projects\wpf-calculator\obj\Release\WPFCalculator.exe
+C:\Users\Eagle\Desktop\Projects\wpf-calculator\obj\Release\WPFCalculator.pdb

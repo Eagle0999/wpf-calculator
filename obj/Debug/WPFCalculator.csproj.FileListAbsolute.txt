@@ -1,0 +1,13 @@
+D:\С#\WPF C#\WPF Project\WPFCalculator\bin\Debug\WPFCalculator.exe.config
+D:\С#\WPF C#\WPF Project\WPFCalculator\bin\Debug\WPFCalculator.exe
+D:\С#\WPF C#\WPF Project\WPFCalculator\bin\Debug\WPFCalculator.pdb
+D:\С#\WPF C#\WPF Project\WPFCalculator\obj\Debug\MainWindow.baml
+D:\С#\WPF C#\WPF Project\WPFCalculator\obj\Debug\MainWindow.g.cs
+D:\С#\WPF C#\WPF Project\WPFCalculator\obj\Debug\App.g.cs
+D:\С#\WPF C#\WPF Project\WPFCalculator\obj\Debug\WPFCalculator_MarkupCompile.cache
+D:\С#\WPF C#\WPF Project\WPFCalculator\obj\Debug\WPFCalculator.g.resources
+D:\С#\WPF C#\WPF Project\WPFCalculator\obj\Debug\WPFCalculator.Properties.Resources.resources
+D:\С#\WPF C#\WPF Project\WPFCalculator\obj\Debug\WPFCalculator.csproj.GenerateResource.cache
+D:\С#\WPF C#\WPF Project\WPFCalculator\obj\Debug\WPFCalculator.csproj.CoreCompileInputs.cache
+D:\С#\WPF C#\WPF Project\WPFCalculator\obj\Debug\WPFCalculator.exe
+D:\С#\WPF C#\WPF Project\WPFCalculator\obj\Debug\WPFCalculator.pdb
